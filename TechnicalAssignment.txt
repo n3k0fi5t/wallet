@@ -1,0 +1,48 @@
+1.  What we like you to do
+
+write code for a Wallet Apps that behaves as follows:
+
+User can deposit money into her wallet
+
+User can withdraw money from her wallet
+
+User can send money to another user
+
+User can check her wallet balance
+
+others:
+
+the Wallet App should keep track of all the users and wallets it contains
+
+No UI interface is required, solution is provided as reusable library code
+
+submit your solution as a Zip file
+
+
+2. How we mark your solution
+
+Be written in Ruby or your preferred language
+
+Have quality tests
+
+Include a readme
+
+explaining any decisions you made
+
+how to setup and run your code
+
+highlight how should reviewer view your code
+
+areas to be improved
+
+how long you spent on the test
+
+etc.
+
+How does it satisfy functional and non-functional requirements
+
+Does it follow engineering best practices ?
+
+The OO design of your classes and methods
+
+The simplicity of your solution
